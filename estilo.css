@@ -1,0 +1,83 @@
+h1 {
+    font-size: 2.6em !important;
+    color: #c900e5;
+    font-weight: bold !important;
+    font-family: 'Baloo Da', cursive;
+}
+.equipo{
+    color: #c900e5 !important;
+    margin-left: 80px;
+    font-weight: bold;
+}
+.hero{
+    background-image: url(img/4.png);
+      background-size: 100vw 100vh;
+    background-attachment: fixed;
+    position: -webkit-sticky;  
+    position: sticky;
+    z-index: 20;
+	padding: 5px 0;
+}
+.enlace {
+    margin-left: 160px;
+    font-weight: bold;
+    color: aliceblue !important
+
+}
+
+h2 {
+    font-size: 2.4em !important;
+    margin-bottom: 15px !important;
+    font-weight: bold !important;
+    line-height: 1.1em;
+}
+
+.column {
+    width: 496px !important;
+    margin-left: 100px;
+}
+
+.columns {
+    margin-top: -510px !important;
+}
+
+p {
+    text-align: justify
+}
+
+
+.boton {
+
+    padding: 25px 75px !important;
+    border-radius: 50px !important;
+
+    font-weight: bold !important;
+    font-size: 1.1em !important;
+    color: #c900e5 !important;
+    -webkit-box-shadow: inset 3px 5px 13px -5px rgba(138, 0, 138, 1) !important;
+    -moz-box-shadow: inset 3px 5px 13px -5px rgba(138, 0, 138, 1) !important;
+    box-shadow: inset 3px 5px 13px -5px rgba(138, 0, 138, 1) !important;
+}
+
+.bot {
+
+    margin-top: 20px !important;
+    padding: 25px 55px !important;
+    border-radius: 50px !important;
+    background-image: linear-gradient(-90deg, #be04a1, #6d097b);
+    color: white;
+    font-weight: bold;
+    -webkit-box-shadow: 10px 10px 5px -4px rgba(199, 199, 199, 1) !important;
+    -moz-box-shadow: 10px 10px 5px -4px rgba(199, 199, 199, 1) !important;
+    box-shadow: 10px 10px 5px -4px rgba(199, 199, 199, 1) !important;
+}
+
+.imagen img {
+    margin-top: -30px;
+    margin-left: 170px;
+    border: 5px solid #be04a1;
+    -webkit-box-shadow: 4px 5px 15px -5px rgba(0,0,0,1);
+-moz-box-shadow: 4px 5px 15px -5px rgba(0,0,0,1);
+box-shadow: 4px 5px 15px -5px rgba(0,0,0,1);
+    height: 320px;
+}
